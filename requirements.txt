@@ -4,6 +4,6 @@ Librosa
 Tensorflow
 Numpy
 streamlit
-matplotlib.pyplot
+matplotlib
 sklearn
 os
