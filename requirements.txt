@@ -6,3 +6,4 @@ Numpy
 streamlit
 matplotlib
 scikit-learn
+flask
