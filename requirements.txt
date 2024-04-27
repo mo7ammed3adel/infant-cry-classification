@@ -5,6 +5,5 @@ Tensorflow
 Numpy
 streamlit
 matplotlib
-sklearn
 scikit-learn
 os
