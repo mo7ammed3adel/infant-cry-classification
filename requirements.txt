@@ -6,4 +6,3 @@ Numpy
 streamlit
 matplotlib
 scikit-learn
-os
