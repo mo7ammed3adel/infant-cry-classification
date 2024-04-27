@@ -1,0 +1,9 @@
+gunicorn
+Pandas
+Librosa
+Tensorflow
+Numpy
+streamlit
+matplotlib.pyplot
+sklearn
+os
